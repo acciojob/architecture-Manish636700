@@ -10,14 +10,14 @@
 	border:2px solid black;
 	
 }
-.img{
+.imageContainer{
 	height:200px;
 	width:500px;
 	margin-left:10px;
 	background-image:url(https://th.bing.com/th/id/OIP.srhpC_KrBYD4yIGyebXlEgHaFz?w=230&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7);
 	background-size:cover;
 }
-.table{
+table{
 		border:1px solid black;
 		width:810px;
 	     margin:10px;
