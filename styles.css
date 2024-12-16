@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.box{
+	background-color:gray;
+	width:1100px;
+	height:1100px;
+	border:2px solid black;
+	
+}
+.img{
+	height:200px;
+	width:500px;
+	margin-left:10px;
+	background-image:url(https://th.bing.com/th/id/OIP.srhpC_KrBYD4yIGyebXlEgHaFz?w=230&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7);
+	background-size:cover;
+}
+.table{
+		border:1px solid black;
+		width:810px;
+	     margin:10px;
+td{
+	border:1px solid black;
+}
+.col1{
+	width:200px;
+	height:200px;
+	background-image:url(https://th.bing.com/th/id/OIP.srhpC_KrBYD4yIGyebXlEgHaFz?w=230&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7);
+	background-size:cover;
+}
+.col2{
+	width:600px;
+	text-align:center;
+}
