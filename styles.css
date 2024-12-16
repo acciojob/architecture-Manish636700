@@ -7,7 +7,6 @@
 	background-color:gray;
 	width:1100px;
 	height:1100px;
-	border:2px solid black;
 	
 }
 .imageContainer{
@@ -24,7 +23,7 @@ table{
 td{
 	border:1px solid black;
 }
-.col1{
+td:first-child,td:last-child{
 	width:200px;
 	height:200px;
 	background-image:url(https://th.bing.com/th/id/OIP.srhpC_KrBYD4yIGyebXlEgHaFz?w=230&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7);
