@@ -17,19 +17,17 @@
 	background-size:cover;
 }
 table{
-		border:1px solid black;
-		width:810px;
-	     margin:10px;
-td{
-	border:1px solid black;
+	margin:20px;
 }
-td:first-child,td:last-child{
+table,td{
+	border:2px solid black;
+}
+.small img{
 	width:200px;
-	height:200px;
 	background-image:url(https://th.bing.com/th/id/OIP.srhpC_KrBYD4yIGyebXlEgHaFz?w=230&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7);
 	background-size:cover;
+	height:200px;
 }
-.col2{
+.large{
 	width:600px;
-	text-align:center;
 }
